@@ -9,6 +9,10 @@ h2 {
   color: #000;
   text-align: center;
 }
+h2 {
+  font-size: 20px;
+  color: cadetblue;
+}
 .wrapper {
   padding: 100px 0;
 }
